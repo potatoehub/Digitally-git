@@ -1,0 +1,19 @@
+img {
+  height: 50%;
+  width: 55%;
+  display: block;
+  margin:0 auto;
+}
+body {
+  background-color: #00FFFF;
+  font-family: fantasy;
+  font-size: 20px;
+}
+div {
+  text-align: center;
+  color: #00FF00;
+}
+div{
+  border:5px yellow dotted;
+  border-style: ridge;
+}
