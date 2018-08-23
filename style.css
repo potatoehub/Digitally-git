@@ -64,4 +64,84 @@ div{
 }
 
 
-.thumbs
+.thumbnail img{
+  height: 50px;
+  width: auto;
+  display: inline;
+}
+
+
+#preview {
+  width:900px;
+}
+
+.thumnail{
+  border-color: 2px yellow dotted;
+}
+
+button {
+  height:100px;
+  width:100px;
+  background-size: cover;
+}
+/* who is jungkook? */
+#l1{
+ background-image: url("https://vignette.wikia.nocookie.net/bangtanboys/images/8/89/Jungkook_Face_Yourself.jpg/revision/latest?cb=20180529160804");
+}
+#l2{
+ background-image: url("https://vignette.wikia.nocookie.net/bangtanboys/images/8/8d/V_Face_Yourself.jpg/revision/latest?cb=20180529161100");
+}
+
+/* which one is day6? */
+#l3{
+ background-image: url("https://0.soompi.io/wp-content/uploads/2017/04/15195424/DAY62.jpg?s=900x600&e=t");
+}
+#l4{
+ background-image: url("https://kprofiles.com/wp-content/uploads/2016/04/Got7-1.jpg");
+}
+
+/* who is IU? */
+#l5{
+ background-image: url("https://i.pinimg.com/originals/f3/1f/df/f31fdf39cce240169883ca4181d421ea.jpg");
+}
+#l6{
+ background-image: url("https://0.soompi.io/wp-content/uploads/2016/07/17034328/iu.jpg?s=900x600&e=t")
+}
+
+
+#l7{
+ background-image: url("")
+}
+#l8{
+ background-image: url("")
+}
+
+#l9{
+
+}
+#l10{
+
+}
+
+#l11{
+
+}
+#l12{
+
+}
+
+#l13{
+
+}
+
+#l14{
+
+}
+
+#l15{
+
+}
+
+#l16{
+
+}
